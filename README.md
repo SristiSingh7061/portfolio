@@ -25,11 +25,8 @@ I love building modern, responsive, and user-friendly websites.
 Coming soon... 🚧
 
 ## 🌍 Live Website
-(Add your GitHub Pages link here later)
+https://github.com/SristiSingh7061
 
-## 📬 Contact
-- Email: (your email here)
-- LinkedIn: (optional)
 
 ---
 ✨ Thank you for visiting my portfolio!
