@@ -25,7 +25,7 @@ I love building modern, responsive, and user-friendly websites.
 Coming soon... 🚧
 
 ## 🌍 Live Website
-https://github.com/SristiSingh7061
+https://sristisingh7061.github.io/portfolio/
 
 
 ---
